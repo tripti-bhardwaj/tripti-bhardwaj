@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi, I'm Tripti Bhardwaj</h1>
+<h1 align="center">Hi, I'm Tripti Bhardwaj</h1> 
+![](https://komarev.com/ghpvc/?username=tripti-bhardwaj)
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tripti-bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="tripti-bhardwaj" /> </p> -->
 <p>Welcome to my Github! I'm a dedicated engineering student enthusiastic about data science, machine learning, AI, and data analysis. My journey involves immersive projects where I've engaged with real-world datasets, employing advanced analytics to provide valuable insights. 
   
